@@ -45,7 +45,7 @@ return [
 
         'mysql' => [
             'driver' => 'mysql',
-            'url' =>'db4free.net/phpMyAdmin/',
+            'url' =>'https://db4free.net/',
             'host' => env('DB_HOST', '127.0.0.1'),
             'port' => 'XXXX',
             'database' => 'ecommerce421',
